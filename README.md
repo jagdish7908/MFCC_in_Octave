@@ -1,4 +1,4 @@
-# Octave_functions
+# Octave functions for calculating Mel-frequency Cepstral Coefficients (MFCC)
 
 Add the absolute path of directory containing the function files using addpath() function in Command Window of Octave.<br />
 Example:
